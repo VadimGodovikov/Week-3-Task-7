@@ -1,0 +1,20 @@
+C:\Users\host\source\repos\prog7.2form\prog7.2form\bin\Debug\prog7.2form.exe.config
+C:\Users\host\source\repos\prog7.2form\prog7.2form\bin\Debug\prog7.2form.exe
+C:\Users\host\source\repos\prog7.2form\prog7.2form\bin\Debug\prog7.2form.pdb
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csprojAssemblyReference.cache
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7._2form.Form1.resources
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7._2form.Properties.Resources.resources
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csproj.GenerateResource.cache
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csproj.CoreCompileInputs.cache
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7.2form.exe
+C:\Users\host\source\repos\prog7.2form\prog7.2form\obj\Debug\prog7.2form.pdb
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\bin\Debug\prog7.2form.exe.config
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\bin\Debug\prog7.2form.exe
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\bin\Debug\prog7.2form.pdb
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7._2form.Form1.resources
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7._2form.Properties.Resources.resources
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7.2form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7.2form.exe
+C:\Учебная практика\Неделя 3 Задание 7\prog7.2form\prog7.2form\obj\Debug\prog7.2form.pdb

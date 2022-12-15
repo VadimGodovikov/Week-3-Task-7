@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\bin\Debug\prog7.1.exe.config
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\bin\Debug\prog7.1.exe
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\bin\Debug\prog7.1.pdb
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\obj\Debug\prog7.1.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\obj\Debug\prog7.1.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\obj\Debug\prog7.1.exe
+C:\Учебная практика\Неделя 3 Задание 7\prog7.1\prog7.1\obj\Debug\prog7.1.pdb
